@@ -11,7 +11,7 @@
 
 body{
     background-color: #fbf9cc; /* 背景色を変える */
-    background-image: url(img/fuji.png); /* 背景色を変える */
+    background-image: url("img/fuji.png"); /* 背景色を変える */
 }
 h1{
     font-size: 1.75em;

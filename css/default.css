@@ -1,4 +1,14 @@
 @charset "UTF-8";
+.cat{
+    font-size: 70%;
+}
+.male{
+    color: #2793a7;
+}
+.female{
+    color: #df972f;
+}
+
 body{
     background-color: #fbf9cc; /* 背景色を変える */
 }

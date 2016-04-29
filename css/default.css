@@ -1,6 +1,10 @@
 @charset "UTF-8";
 .cat{
     font-size: 70%;
+    padding-right: 20px;
+    background-image: url(../img/more.png);
+    background-repeat: no-repeat;
+    background-position: right center;
 }
 .cat.male{
     color: #2793a7;

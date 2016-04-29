@@ -2,10 +2,10 @@
 .cat{
     font-size: 70%;
 }
-.male{
+.cat.male{
     color: #2793a7;
 }
-.female{
+.cat.female{
     color: #df972f;
 }
 
